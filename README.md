@@ -1,10 +1,17 @@
-# g123-DB
-### list of games
-- 邪神ちゃんドロップキック (DROPKICK ON MY DEVIL!)
-- クイーンズブレイド (Queen's Blade)
+# spine-db
+DB of games using the Spine as 2D skeleton animation program created by ESOTERIC SOFTWARE.
 
-## license
-Each asset's copyright is in the original author,
-Since this data (a.k.a. DB) is collected as a hobby,
-It was created with the intent of seeing the characters that couldn't see for a particular reason, such as the end of the service, or helping second creation.
+## list of db
+- [g123-db](https://github.com/jomin398/g123-db) (db of g123's games)
+- other
+    - baiyeint (see [readme](./other/baiyeint/readme.md))
+    - EternalReturn (이터널 리턴, Published by [Nimble neuron](https://nimbleneuron.com/ko/))
+    - hab (Merge Girls, Published by [gamepub](http://gamepub.co.kr/))
+    - pcr (see [readme](./other/pcr/readme.md))
+    - Ramengo (Unknown game)
+    - tkfm (nsfw game, 天下布魔, Published by S.G. Art Inc.)
+    - [nikke](https://github.com/Nikke-db/Nikke-db.github.io) (Published by Level Infinite)
+
+# license
+This db is made for educational and research purpose.
 ### Note: maybe somefiles will delete with the original author's objection.
