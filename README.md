@@ -11,6 +11,7 @@ DB of games using the Spine as 2D skeleton animation program created by ESOTERIC
     - Ramengo (Unknown game)
     - tkfm (nsfw game, 天下布魔, Published by S.G. Art Inc.)
     - [nikke](https://github.com/Nikke-db/Nikke-db.github.io) (Published by Level Infinite)
+    - onemt (Unknown game)
 
 # license
 This db is made for educational and research purpose.
