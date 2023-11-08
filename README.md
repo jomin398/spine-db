@@ -14,6 +14,7 @@ DB of games using the Spine as 2D skeleton animation program created by ESOTERIC
     - onemt (Unknown game)
     - MuseDash (published by PeroPeroGames.)
     - isepapa (see [readme](./other/isepapa/readme.md))
+    - genshin
 
 # license
 This db is made for educational and research purpose.
