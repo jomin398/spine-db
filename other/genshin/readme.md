@@ -27,7 +27,9 @@
 - [YaoYao (요요,YoYo)](yaoyao.zip)
 - [Yelan (야란)](yelan.zip)
 - [Yoimiya (요이미야)](yoimiya.zip)
-
+- [Melusines (멜뤼진들)](melusines.zip)
+    - Elphane (엘파니)
+    - Aeval (아이벨)
 ## lincese
 <img width=200 heigth=20 src="https://webstatic.hoyoverse.com/upload/event/2021/12/29/eaa64d81ae6a7318a6afb91cbffd83a4_118924438105936743.png"></img>  
 Published by `hoyoverse`,  
