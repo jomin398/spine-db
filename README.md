@@ -15,6 +15,7 @@ DB of games using the Spine as 2D skeleton animation program created by ESOTERIC
     - MuseDash (published by PeroPeroGames.)
     - isepapa (see [readme](./other/isepapa/readme.md))
     - genshin (see [readme](./other/genshin/readme.md))
+    - StarRail (see [readme](./other/StarRail/readme.md))
     - kaijuPrincess (see [readmd](./other/kaijuPrincess/readme.md))
 
 # license
