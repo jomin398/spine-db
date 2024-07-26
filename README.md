@@ -1,21 +1,10 @@
 # spine-db
 DB of games using the Spine as 2D skeleton animation program created by ESOTERIC SOFTWARE.
-# NOTE
-Want to see models? Then, try the viewer below.  
-(More than one model file is required)  
 
-<div>
-<iframe
-    src="https://jomin398.github.io/webSpineViewer/"
-    width="100%"
-    height="500"
-    allowfullscreen
-    sandbox>
-    <p>
-      <a href="https://jomin398.github.io/webSpineViewer/"> iframes을 지원하지 않는 브라우저용 링크 </a>
-    </p>
-</iframe>
-</div>
+# NOTE
+Want to see models? Then, try this viewer  
+https://jomin398.github.io/webSpineViewer
+(More than one model file is required)  
 
 ## list of db
 - [g123-db](https://github.com/jomin398/g123-db) (db of g123's games)
