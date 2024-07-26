@@ -1,5 +1,21 @@
 # spine-db
 DB of games using the Spine as 2D skeleton animation program created by ESOTERIC SOFTWARE.
+# NOTE
+Want to see models? Then, try the viewer below.  
+(More than one model file is required)  
+
+<div>
+<iframe
+    src="https://jomin398.github.io/webSpineViewer/"
+    width="100%"
+    height="500"
+    allowfullscreen
+    sandbox>
+    <p>
+      <a href="https://jomin398.github.io/webSpineViewer/"> iframes을 지원하지 않는 브라우저용 링크 </a>
+    </p>
+</iframe>
+</div>
 
 ## list of db
 - [g123-db](https://github.com/jomin398/g123-db) (db of g123's games)
@@ -17,6 +33,7 @@ DB of games using the Spine as 2D skeleton animation program created by ESOTERIC
     - genshin (see [readme](./other/genshin/readme.md))
     - StarRail (see [readme](./other/StarRail/readme.md))
     - kaijuPrincess (see [readmd](./other/kaijuPrincess/readme.md))
+    - SnowBreak (see [readme](./other/snowbreak/readme.md))
 
 # license
 This db is made for educational and research purpose.
